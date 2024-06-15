@@ -87,4 +87,3 @@ If you have any questions or feedback, feel free to reach out:
 
 ---
 
-Feel free to add any additional sections or information specific to your app. This template should provide a good starting point for your README file.
