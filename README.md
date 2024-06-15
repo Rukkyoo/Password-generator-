@@ -20,7 +20,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine. Thi
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/password-generator-app.git
+git clone https://github.com/rukkyoo/password-generator-app.git
 cd password-generator-app
 ```
 
